@@ -19,5 +19,26 @@
     "icon": "nil",
     "genre": "動画共有",
     "description": "パスワード式の動画共有。"
+  },
+  {
+    "name": "Nintendo DSi Shop Theme",
+    "url": "https://youtu.be/VsGQ-O9lEcA?si=VQurOEaVcITM30x7",
+    "icon": "nil",
+    "genre": "動画",
+    "description": "このサイトで使用している音楽。"
+  },
+  {
+    "name": "ふきだしくん",
+    "url": "https://477.jp/",
+    "icon": "nil",
+    "genre": "トーク",
+    "description": "吹き出しを使用して会話できるサイト。リンクを共有することができれば学校で使用できる可能性もある。"
+  },
+  {
+    "name": "Placeholder",
+    "url": "https://youtu.be/p5BGFnGkSWk?si=cEgrlUgTjI38xhZd",
+    "icon": "nil",
+    "genre": "プレースホルダー",
+    "description": "文字通りプレースホルダー。なんら意味はない。"
   }
 ]
