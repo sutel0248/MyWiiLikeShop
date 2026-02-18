@@ -1,23 +1,23 @@
 [
   {
-    "name": "Google",
-    "url": "https://google.com",
+    "name": "投射呪法シミュレーター【最高速度でぶち抜いたれ】",
+    "url": "https://onecompiler.com/html/44dvkzv7b",
     "icon": "nil",
-    "genre": "検索エンジン",
-    "description": "世界最大級の検索サービス。"
+    "genre": "シミュレーター",
+    "description": "『呪術廻戦』に登場する『投射呪法』のシミュレーター。最高速度でぶち抜いたる！"
   },
   {
-    "name": "YouTube",
-    "url": "https://youtube.com",
+    "name": "Super Simple Maze",
+    "url": "https://onecompiler.com/html/43u6p7g3h",
+    "icon": "nil",
+    "genre": "ゲーム",
+    "description": "シンプルな迷路。PC非推奨。"
+  },
+  {
+    "name": "動画金庫",
+    "url": "https://onecompiler.com/html/44d43acmu",
     "icon": "nil",
     "genre": "動画共有",
-    "description": "動画視聴・配信ができるプラットフォーム。"
-  },
-  {
-    "name": "GitHub",
-    "url": "https://github.com",
-    "icon": "nil",
-    "genre": "開発",
-    "description": "ソースコード管理サービス。"
+    "description": "パスワード式の動画共有。"
   }
 ]
