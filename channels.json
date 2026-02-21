@@ -42,6 +42,13 @@
     "description": "ゾンビパンデミックシミュレーター。ハイダーはバグりやすいので注意。"
   },
   {
+    "name": "Viewtube",
+    "url": "https://www.youtube.com/watch?v=p5BGFnGkSWk",
+    "icon": "https://github.com/sutel0248/MyWiiLikeShop/raw/refs/heads/main/Icons/viewtube.png",
+    "genre": "動画共有",
+    "description": "誰でも動画を簡単に投稿できる。Youtubeのパクリ。管理者はAho_nanashi。"
+  },
+  {
     "name": "Placeholder",
     "url": "https://www.youtube.com/watch?v=p5BGFnGkSWk",
     "icon": "https://github.com/sutel0248/MyWiiLikeShop/raw/refs/heads/main/Icons/placeholder.png",
