@@ -49,10 +49,17 @@
     "description": "誰でも動画を簡単に投稿できる。Youtubeのパクリ。管理者はAho_nanashi。"
   },
   {
+    "name": "Viewtube on Firebase",
+    "url": "https://ggez-9e871.web.app/",
+    "icon": "https://github.com/sutel0248/MyWiiLikeShop/raw/refs/heads/main/Icons/viewtube_onfirebase.png",
+    "genre": "動画共有",
+    "description": "誰でも動画を簡単に投稿できる。Youtubeのパクリ。管理者はAho_nanashi。Firebase版。学校で開けない可能性がある。"
+  },
+  {
     "name": "Placeholder",
     "url": "https://www.youtube.com/watch?v=p5BGFnGkSWk",
     "icon": "https://github.com/sutel0248/MyWiiLikeShop/raw/refs/heads/main/Icons/placeholder.png",
     "genre": "プレースホルダー",
     "description": "文字通りプレースホルダー。なんら意味はない。"
-  }
+  },
 ]
